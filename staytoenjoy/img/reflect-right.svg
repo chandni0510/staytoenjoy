@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<path fill="#FFFFFF" d="M542,667h90c2.762,0,5,2.238,5,5v90c0,2.762-2.238,5-5,5h-90c-2.762,0-5-2.238-5-5v-90
+	C537,669.238,539.238,667,542,667z"/>
+<g transform="translate(50 50) scale(0.69 0.69) rotate(0) translate(-50 -50)">
+	<title>checkbox</title>
+	<desc>Created with Sketch.</desc>
+	<g>
+		<g>
+			<path fill="#4D4D4D" d="M30.385,44.41v45.805c0,2.613,2.158,4.771,4.772,4.771h66.818c2.613,0,4.774-2.158,4.774-4.771V44.41
+				c0-2.613-2.161-4.774-4.774-4.774H35.158C32.544,39.636,30.385,41.796,30.385,44.41z M101.976,34.864
+				c5.251,0,9.546,4.295,9.546,9.546v45.805c0,5.248-4.295,9.545-9.546,9.545H35.158c-5.249,0-9.545-4.297-9.545-9.545V44.41
+				c0-5.25,4.295-9.546,9.545-9.546H101.976z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="#4D4D4D" d="M24.116,28.594c3.644-2.951,7.806-5.206,12.144-6.679l0.868,5.119l9.193-10.757l-5.898-3.123l-0.261-0.174
+		l-6.156-3.295l0.866,4.943c-5.552,2.082-10.67,5.292-15.007,9.281c-5.723,5.291-9.974,11.97-12.316,19.257l4.511,1.647
+		C14.662,38.394,18.911,32.756,24.116,28.594z"/>
+</g>
+</svg>

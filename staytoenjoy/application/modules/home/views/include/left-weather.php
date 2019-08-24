@@ -1,0 +1,1 @@
+<img src="<?php echo base_url()?>img/weather.jpg" class="w-100 p-2">
